@@ -145,7 +145,7 @@ gamification-design-journey/
 └── media/
     ├── banners/
     └── screenshots/
-
+'''
 
 
 Tentu, ini adalah draf yang sangat komprehensif untuk repositori GitHub mata kuliah baru Anda, lengkap dengan README.md, struktur folder, dan silabus 16 minggu yang mendetail menggunakan 11 komponen yang Anda minta.
